@@ -52,5 +52,6 @@ Autenticação Social: Google
 Banco de Dados: Supabase
 
 link das telas do sistema de uma livraria
-[LivrariaLelet](lovable-bookhaven.lovable.app)
+[LivrariaLelet](lovable-bookhaven.lovable.app
+)
 
