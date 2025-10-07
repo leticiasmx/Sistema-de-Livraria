@@ -53,5 +53,5 @@ Banco de Dados: Supabase
 
 link das telas do sistema de uma [livraria](lovable-bookhaven.lovable.app)
 
-[](lovable-bookhaven.lovable.app)
+[livraria](lovable-bookhaven.lovable.app)
 
