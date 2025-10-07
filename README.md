@@ -51,7 +51,7 @@ Autenticação Social: Google
 
 Banco de Dados: Supabase
 
-link das telas do sistema de uma [livraria](lovable-bookhaven.lovable.app)
+link das telas do sistema de uma [livrariaLelet](https://lovable-bookhaven.lovable.app)
 
-[livraria](https://lovable-bookhaven.lovable.app/)
+
 
